@@ -1,1 +1,2 @@
 print("Czesć")
+print("hej")
